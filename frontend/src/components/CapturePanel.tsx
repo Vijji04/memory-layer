@@ -40,7 +40,7 @@ export default function CapturePanel() {
       {/* Input */}
       <div className="space-y-3">
         <label className="block text-sm font-medium text-zinc-400">
-          Paste a paragraph with multiple facts
+          Type text in here
         </label>
         <textarea
           value={text}
